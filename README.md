@@ -38,7 +38,7 @@ To install new commands, follow these steps:
    
    Scripts containing the word `.template.` in the filename require some values to be set (check [the troubleshooting section](#troubleshooting-and-faqs) for more information).
    
-   Alternatively, instead of creating a new directory you can reuse the repo's [`_enable-commands` folder](https://github.com/raycast/script-commands/tree/master/_enabled-commands).
+   Alternatively, instead of creating a new directory you can reuse the repo's [`_enable-commands` folder](https://github.com/exlennis/scripts-fork-ray/tree/106c72c976cc52240323037b8a847dad379a2676/_enabled-commands).
 3. Open the Extensions tab in the Raycast preferences
 4. Click the plus button
 5. Click `Add Script Directory`
