@@ -19819,6 +19819,34 @@
           "updatedAt" : "2020-12-08T15:56:35Z"
         },
         {
+          "authors" : [
+            {
+              "name" : "Michael Bianco",
+              "url" : "https:\/\/github.com\/iloveitaly"
+            }
+          ],
+          "createdAt" : "2020-11-05T19:09:05Z",
+          "currentDirectoryPath" : null,
+          "description" : "Copies the path of the last downloaded file to the clipboard.",
+          "filename" : "copy-last-download-path.swift",
+          "hasArguments" : false,
+          "icon" : {
+            "dark" : null,
+            "light" : "📋"
+          },
+          "identifier" : "8078af51935a87cfd4738ab99a3c271d",
+          "isTemplate" : false,
+          "language" : "swift",
+          "mode" : "silent",
+          "needsConfirmation" : null,
+          "packageName" : "System",
+          "path" : "system\/",
+          "refreshTime" : null,
+          "schemaVersion" : 1,
+          "title" : "Copy Last Download Path",
+          "updatedAt" : "2026-09-14T14:21:59-06:00"
+        },
+        {
           "authors" : null,
           "createdAt" : "2020-10-19T11:37:24+01:00",
           "currentDirectoryPath" : null,
@@ -24666,13 +24694,9 @@
   ],
   "languages" : [
     {
-      "displayName" : "PowerShell",
-      "icon" : "icon-powershell.png",
-      "name" : "pwsh"
-    },
-    {
-      "displayName" : "pwsh\r",
-      "name" : "pwsh\r"
+      "displayName" : "Ruby",
+      "icon" : "icon-ruby.png",
+      "name" : "ruby"
     },
     {
       "displayName" : "Bash",
@@ -24680,9 +24704,23 @@
       "name" : "bash"
     },
     {
+      "displayName" : "pwsh\r",
+      "name" : "pwsh\r"
+    },
+    {
+      "displayName" : "Swift",
+      "icon" : "icon-swift.png",
+      "name" : "swift"
+    },
+    {
       "displayName" : "Python",
       "icon" : "icon-python.png",
       "name" : "python"
+    },
+    {
+      "displayName" : "PowerShell",
+      "icon" : "icon-powershell.png",
+      "name" : "pwsh"
     },
     {
       "displayName" : "AppleScript",
@@ -24693,21 +24731,11 @@
       "displayName" : "Node",
       "icon" : "icon-nodejs.png",
       "name" : "node"
-    },
-    {
-      "displayName" : "Ruby",
-      "icon" : "icon-ruby.png",
-      "name" : "ruby"
-    },
-    {
-      "displayName" : "Swift",
-      "icon" : "icon-swift.png",
-      "name" : "swift"
     }
   ],
   "metadata" : [
 
   ],
-  "totalScriptCommands" : 857,
+  "totalScriptCommands" : 858,
   "updatedAt" : "2026-04-27T07:55:22Z"
 }
